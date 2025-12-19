@@ -13,16 +13,16 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:rashmeetsingh1012@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#aad8cbd9c2c7cfcfded9c3c4cdc29b9a9b98eacdc7cbc3c684c9c5c7">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/rashmeet-chhabra" target="_blank">
+  <a href="https://www.linkedin.com/in/rashmeet-chhabra-588459259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/rashmeet-chhabra" target="_blank">
+  <a href="https://github.com/rashmeetchhabra12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://codolio.com/profile/rashmeet-chhabra" target="_blank">
+  <a href="https://codolio.com/profile/rashmeet12" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Codolio" />
   </a>
 </div>
@@ -33,13 +33,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/rashmeet-chhabra/">
-    <img src="https://leetcard.jacoblin.cool/rashmeet-chhabra?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Rashmeet_10/">
+    <img src="https://leetcard.jacoblin.cool/Rashmeet_10?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmeet-chhabra&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmeetchhabra12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmeet-chhabra&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmeetchhabra12&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <br/><br/>
@@ -100,14 +100,14 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/rashmeet-chhabra/FitTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rashmeet-chhabra&repo=FitTrack&theme=react&border_color=61dafb&border_radius=10" alt="FitTrack Repository" />
+  <a href="https://github.com/rashmeetchhabra12/FitTrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rashmeetchhabra12&repo=FitTrack&theme=react&border_color=61dafb&border_radius=10" alt="FitTrack Repository" />
   </a>
-  <a href="https://github.com/rashmeet-chhabra/ShelfAssist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rashmeet-chhabra&repo=ShelfAssist&theme=react&border_color=61dafb&border_radius=10" alt="ShelfAssist Repository" />
+  <a href="https://github.com/rashmeetchhabra12/ShelfAssist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rashmeetchhabra12&repo=ShelfAssist&theme=react&border_color=61dafb&border_radius=10" alt="ShelfAssist Repository" />
   </a>
-  <a href="https://github.com/rashmeet-chhabra/AI-ChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rashmeet-chhabra&repo=AI-ChatBot&theme=react&border_color=61dafb&border_radius=10" alt="AI ChatBot Repository" />
+  <a href="https://github.com/rashmeetchhabra12/AI-ChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rashmeetchhabra12&repo=AI-ChatBot&theme=react&border_color=61dafb&border_radius=10" alt="AI ChatBot Repository" />
   </a>
 </div>
 
@@ -137,13 +137,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/rashmeet-chhabra" target="_blank">
+  <a href="https://leetcode.com/u/Rashmeet_10/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/rashmeet_chhabra" target="_blank">
+  <a href="https://www.codechef.com/users/alert_silk_67" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/rashmeet_chhabra" target="_blank">
+  <a href="https://codeforces.com/profile/Rashmeet_10" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </div>
@@ -151,5 +151,4 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashmeet-chhabra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=rashmeetchhabra12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
