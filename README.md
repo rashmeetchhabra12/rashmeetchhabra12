@@ -59,8 +59,8 @@
 <br/>
 
 ### 🎯 Academic Excellence:
-- **GATE CSE 2024:** Secured a score of 420 (Top 7.4%), demonstrating strong fundamentals in Computer Science
-- **IIIT Bhopal:** Pursuing B.Tech in Information Technology with CGPA of 7.85
+- **GATE CSE 2025:** Secured a score of 420 (Top 7.4%), demonstrating strong fundamentals in Computer Science
+- **IIIT Bhopal:** Pursuing B.Tech in Information Technology with CGPA of 7.93
 
 ### 🥇 Competitive Programming:
 - **LeetCode:** 700+ problems solved (Top 7.8% globally) with a peak rating of 1884
